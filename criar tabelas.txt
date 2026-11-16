@@ -1,0 +1,3 @@
+dotnet ef migrations script -o ./script06_TabelaDisputas.sql
+
+dotnet ef database update
